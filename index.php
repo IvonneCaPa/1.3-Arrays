@@ -1,6 +1,6 @@
 <?php
 $words = array("holas", "Phps", "HtSmsl");
-$character = "z";
+$character = "h";
 
 
  function todasTienenCaracter($words, $character) {
