@@ -11,7 +11,3 @@ Crea una función que reciba como parámetros un array de palabras y un carácte
 
 Ejercicio 04
 Haz un array asociativo que represente información de ti mismo/a. En concreto debe incluir: nombre edad email comida favorita
-
-NIVEL 02
-Ejercicio 01
-Crea un programa que contenga dos arrays de números enteros/floados. Una vez creados, muestra por pantalla el resultado de: La intersección de los dos arrays (números en común) La mezcla de ambos arrays.
